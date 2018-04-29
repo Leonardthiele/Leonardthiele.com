@@ -22,7 +22,7 @@ group :jekyll_plugins do
   gem 'bootstrap', '~> 4.0.0.alpha6'
   gem "jekyll-feed", "~> 0.6"
   gem "jekyll-sitemap"
-  gem "jekyll-paginate-v2"
+  gem "jekyll-paginate"
   gem 'jekyll-contentblocks'
 end
 
