@@ -1,7 +1,7 @@
 # Site settings
 title:          Blog
 description:    "My personal blog"
-url:            "https://leonardthiele.github.io/leonardthiele.com"
+url:            "http://leonardthiele.com"
 baseurl: ""
 
 # Author
