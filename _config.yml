@@ -1,0 +1,40 @@
+# Site settings
+title:          Blog
+description:    "My personal blog"
+url:            "https://leonardthiele.github.io"
+baseurl: ""
+
+# Author
+author:
+  name:         Leonard Thiele
+  url:          https://leonardthiele.com
+  email:        leonardthiele@gmail.com
+
+# Build settings
+markdown:       kramdown
+
+pagination:
+  enabled: true
+  per_page: 3
+  permalink: '/pages/page:num/'
+  title: ':title'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+
+collections:
+  pages:
+    output: true
+    permalink: /:name/
+
+# Assets
+sass:
+  style: :compressed
+  sass_dir: assets/css
+
+# Gems
+gems:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate-v2
+  - jekyll-contentblocks

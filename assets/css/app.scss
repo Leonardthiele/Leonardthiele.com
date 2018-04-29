@@ -1,0 +1,38 @@
+---
+---
+@import 'blog/variables';
+@import 'blog/base';
+@import 'blog/code';
+@import 'blog/post';
+@import 'blog/syntax';
+@import 'blog/layout';
+@import 'blog/pagination';
+@import 'blog/catalogue';
+@import "bootstrap";
+body {
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+}
+.catalogue a {
+  text-decoration: none !important;
+  color: grey;
+}
+
+a:hover {
+  text-decoration: none !important;
+  color: rgb(87, 87, 87);
+}
+
+.blog-link {
+  color: black;
+  vertical-align:baseline;
+  margin-left: 20px;
+  &:hover {
+    color: grey;
+  }
+} 
+
+a img {
+  display: inline;
+  max-width:30px; 
+  margin-left: 20px;
+}
