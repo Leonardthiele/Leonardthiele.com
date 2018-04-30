@@ -13,14 +13,8 @@ author:
 # Build settings
 markdown:       kramdown
 
-pagination:
-  enabled: true
-  per_page: 3
-  permalink: '/pages/page:num/'
-  title: ':title'
-  limit: 0
-  sort_field: 'date'
-  sort_reverse: true
+paginate: 2
+paginate_path: "/blog/page:num/"
 
 collections:
   pages:
@@ -33,7 +27,7 @@ sass:
   sass_dir: assets/css
 
 # Gems
-gems:
+plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate
