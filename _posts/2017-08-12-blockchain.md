@@ -10,7 +10,7 @@ The developement of Blockchains has the potential of being the biggest technolog
 
 #### The Blockchain
 
-The Blockchain is a long list of Informations, also called a ledger. These informations are collected in blocks. Every block contains certain informations, like transactions in [Cryptocurrencies](/article/cryptocurrencies) such as [Bitcoin](/article/bitcoin), digital contracts in networks like [Ethereum](/article/Ethereum) or many other possible informations. To this informations, a block contains some more important informations like the unique, digital fingerprint of his predecessor. If the content of one block changes, his fingerprint will change and the following Blockchain will be invalid.
+The Blockchain is a long list of Informations, also called a ledger. These informations are collected in blocks. Every block contains certain informations, like transactions in [Cryptocurrencies](/article/cryptocurrencies) such as [Bitcoin](/article/bitcoin), digital contracts in networks like [Ethereum](/article/ethereum) or many other possible informations. To this informations, a block contains some more important informations like the unique, digital fingerprint of his predecessor. If the content of one block changes, his fingerprint will change and the following Blockchain will be invalid.
 
 <br>
 ![Blockchain simple](/post_images/blockchain/cryptocurrencies_block.png)
@@ -37,7 +37,7 @@ Even though the Blockchain is completely public, there is a certain degree of an
 #### What are the usecases for Blockchains?
 
 Blockchains can be an improvement to almost every field by creating new values and trust. Example applications can be to secure identities, protect creators, equal and fraud-proofed elections, controlling energy distribution or the secured storage of your data.
-One important field is the financial sector, in which [Cryptocurrencies](/article/cryptocurrencies) can restore real values behind currencies. Another example is the land registry. Sweden is working on projects which could change the management of land ownerships from the old paper management to the use of a Blockchain. This change will save about 100 Million Euro of swedish tax payers money, every year. Russia is also researching a lot in Blockchain technology and president Vladimir Putin recently met Vitalik Buterin, the creator of [Ethereum](/article/Ethereum), to discuss future applications. Big companies are developing their own projects as well, to improve their companies and products. Google, Microsoft, IBM, VISA are only a few examples.
+One important field is the financial sector, in which [Cryptocurrencies](/article/cryptocurrencies) can restore real values behind currencies. Another example is the land registry. Sweden is working on projects which could change the management of land ownerships from the old paper management to the use of a Blockchain. This change will save about 100 Million Euro of swedish tax payers money, every year. Russia is also researching a lot in Blockchain technology and president Vladimir Putin recently met Vitalik Buterin, the creator of [Ethereum](/article/ethereum), to discuss future applications. Big companies are developing their own projects as well, to improve their companies and products. Google, Microsoft, IBM, VISA are only a few examples.
 
 >*"While the Bitcoin hype cycle has gone quiet, Silicon Valley and Wall Street are betting that the underlying technology behind it, the Blockchain, can change... well everything."*
 --Goldman Sachs
