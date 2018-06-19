@@ -2,6 +2,7 @@
 title:          Blog
 description:    "My personal blog"
 url:            "http://leonardthiele.com"
+permalink: /article/:slug/
 baseurl: ""
 
 # Author
