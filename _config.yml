@@ -1,7 +1,7 @@
 # Site settings
 title:          Blog
 description:    "My personal blog"
-url:            "http://leonardthiele.com"
+url:            "https://leonardthiele.com"
 permalink: /article/:slug/
 baseurl: ""
 
